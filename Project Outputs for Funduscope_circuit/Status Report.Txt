@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Funduscope_circuit.PrjPcb]
+   Generated File[Bill of Materials.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:39:59 PM On 12/19/2020
